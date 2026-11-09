@@ -1,0 +1,20 @@
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Project Duskbreak.exe
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Project Duskbreak.deps.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Project Duskbreak.runtimeconfig.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Project Duskbreak.dll
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Project Duskbreak.pdb
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.AssemblyInfoInputs.cache
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.AssemblyInfo.cs
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.csproj.CoreCompileInputs.cache
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.dll
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\refint\Project Duskbreak.dll
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.pdb
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.genruntimeconfig.cache
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\ref\Project Duskbreak.dll
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\Jingliu.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Enemies\RockingRebel.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\Luocha.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\MortenaxBlade.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\Sparkle.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Skills\LuochaBasic.json

@@ -1,0 +1,26 @@
+﻿{
+  "id": 5013010,
+  "name": "Rocking Rebel",
+
+  "level": 95,
+
+  "hp": 492862,
+  "atk": 718,
+  "def": 1150,
+  "speed": 174,
+
+  "toughness": 360,
+
+  "weaknesses": [
+    "Physical",
+    "Fire",
+    "Wind"
+  ],
+
+  "resistances": {
+    "Ice": 0.20,
+    "Quantum": 0.20,
+    "Lightning": 0.20,
+    "Imaginary": 0.20
+  }
+}

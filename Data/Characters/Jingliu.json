@@ -1,0 +1,19 @@
+{
+  "id": 1212,
+  "name": "Jingliu",
+  "path": "Destruction",
+  "element": "Ice",
+
+  "maxEnergy": 140,
+
+  "baseHp": 1436,
+
+  "baseAtk": 679,
+  "baseDef": 485,
+  "baseSpeed": 96,
+
+  "basicAttackId": 121201,
+  "skillId": 121202,
+  "ultimateId": 121203,
+  "talentId": 121204
+}

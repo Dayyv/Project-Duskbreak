@@ -1,0 +1,31 @@
+{
+  "id": 1203,
+  "name": "Luocha",
+  "path": "Abundance",
+  "element": "Imaginary",
+
+  "maxEnergy": 100,
+
+  "baseHp": 1281,
+  "baseAtk": 757,
+  "baseDef": 363,
+  "baseSpeed": 101,
+
+  "basicAttackId": 120301,
+  "skillId": 120302,
+  "ultimateId": 120303,
+  "talentId": 120304,
+
+  "minorTraces": [
+    {
+      "stat": "AttackPercent",
+      "value": 0.28,
+      "unlocked": true
+    },
+    {
+      "stat": "MaxHpPercent",
+      "value": 0.18,
+      "unlocked": true
+    }
+  ]
+}

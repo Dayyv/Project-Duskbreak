@@ -1,0 +1,18 @@
+{
+  "id": 1507,
+  "name": "Mortenax Blade",
+  "path": "Nihility",
+  "element": "Fire",
+
+  "maxEnergy": 160,
+
+  "baseHp": 1358,
+  "baseAtk": 543,
+  "baseDef": 485,
+  "baseSpeed": 107,
+
+  "basicAttackId": 150701,
+  "skillId": 150702,
+  "ultimateId": 150703,
+  "talentId": 150704
+}

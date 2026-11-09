@@ -1,0 +1,18 @@
+{
+  "id": 1306,
+  "name": "Sparkle",
+  "path": "Harmony",
+  "element": "Quantum",
+
+  "maxEnergy": 110,
+
+  "baseHp": 1397,
+  "baseAtk": 524,
+  "baseDef": 485,
+  "baseSpeed": 101,
+
+  "basicAttackId": 130601,
+  "skillId": 130602,
+  "ultimateId": 130603,
+  "talentId": 130604
+}

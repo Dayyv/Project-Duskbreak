@@ -1,0 +1,24 @@
+﻿{
+  "id": 120301,
+  "name": "Thorns of the Abyss",
+  "description": "Deals Imaginary DMG.",
+
+  "skillType": "BasicAttack",
+
+  "targetType": "SingleTarget",
+
+  "skillPointCost": 0,
+
+  "energyCost": 0,
+  "energyGain": 20,
+
+  "effects": [
+    {
+      "type": "Damage",
+      "scalingStat": "Atk",
+      "multiplier": 1.00,
+      "element": "Imaginary",
+      "value": 0
+    }
+  ]
+}
