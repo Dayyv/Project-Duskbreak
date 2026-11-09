@@ -135,7 +135,7 @@ internal class Program
 
             PrintBattleLog(
                 battleManager.BattleState);
-
+            
 
             TimelineEntry actor =
                 battleManager.GetNextTurn();
