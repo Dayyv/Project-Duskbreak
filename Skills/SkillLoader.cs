@@ -28,24 +28,20 @@ public static class SkillLoader
                 File.ReadAllText(file);
 
             SkillDefinition? skill =
-    JsonSerializer.Deserialize<SkillDefinition>(
-        json,
-        new JsonSerializerOptions
+                JsonSerializer.Deserialize<SkillDefinition>(
+    json,
+    new JsonSerializerOptions
+    {
+        PropertyNameCaseInsensitive = true,
+        Converters =
         {
-            PropertyNameCaseInsensitive = true,
-            Converters =
-            {
-                new JsonStringEnumConverter()
-            }
-        });
+            new JsonStringEnumConverter()
+        }
+    });
+
 
             if (skill == null)
-            {
-                Console.WriteLine(
-                    $"Failed to load skill: {file}");
-
                 continue;
-            }
 
             SkillDatabase.Register(skill);
 

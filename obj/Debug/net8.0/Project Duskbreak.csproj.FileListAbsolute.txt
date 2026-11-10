@@ -18,3 +18,7 @@ C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0
 C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\MortenaxBlade.json
 C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Characters\Sparkle.json
 C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Skills\LuochaBasic.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Skills\MortenaxBladeBasic.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Skills\SparkleBasic.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\obj\Debug\net8.0\Project Duskbreak.sourcelink.json
+C:\Users\DARLC\source\repos\Project Duskbreak\Project Duskbreak\bin\Debug\net8.0\Data\Skills\JingliuBasic.json

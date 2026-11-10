@@ -1,0 +1,25 @@
+{
+  "id": 150701,
+  "name": "Mournblade",
+
+  "description": "Deals Fire DMG to a single enemy.",
+
+  "skillType": "BasicAttack",
+
+  "targetType": "SingleTarget",
+
+  "skillPointCost": 0,
+
+  "energyCost": 0,
+  "energyGain": 20,
+
+  "effects": [
+    {
+      "type": "Damage",
+      "scalingStat": "Hp",
+      "multiplier": 0.5,
+      "element": "Fire",
+      "value": 0
+    }
+  ]
+}

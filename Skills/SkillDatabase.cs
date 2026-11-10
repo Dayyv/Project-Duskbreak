@@ -14,24 +14,7 @@ public static class SkillDatabase
     public static SkillDefinition Get(
         int id)
     {
-        if (!_skills.TryGetValue(
-            id,
-            out SkillDefinition? skill))
-        {
-            throw new KeyNotFoundException(
-                $"Skill with ID {id} not found.");
-        }
-
-        return skill;
-    }
-
-    public static bool TryGet(
-        int id,
-        out SkillDefinition? skill)
-    {
-        return _skills.TryGetValue(
-            id,
-            out skill);
+        return _skills[id];
     }
 
     public static IReadOnlyCollection<SkillDefinition>
@@ -43,11 +26,5 @@ public static class SkillDatabase
     public static void Clear()
     {
         _skills.Clear();
-    }
-
-    public static bool Exists(
-        int id)
-    {
-        return _skills.ContainsKey(id);
     }
 }

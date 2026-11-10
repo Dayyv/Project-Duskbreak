@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project Duskbreak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a7aa070ef97fe15734b5c9cc06cc5e93b76fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c113ed384381d8a79008538fd396f781c4175b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project Duskbreak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project Duskbreak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

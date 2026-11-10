@@ -40,6 +40,7 @@ internal class Program
         PrintBattleLog(
     battleManager.BattleState);
 
+
         Console.ReadKey();
     }
 
@@ -68,6 +69,23 @@ internal class Program
     {
         BattleTeam team =
             new BattleTeam("Player");
+        var jingliu =
+    BattleAvatarFactory.Create(
+        CharacterDatabase.Get(1212),
+        80);
+
+        var enemy =
+            BattleEnemyFactory.Create(
+                EnemyDatabase.Get(5013010));
+
+        var skill =
+            SkillDatabase.Get(
+                jingliu.Definition.BasicAttackId);
+
+        SkillExecutor.Execute(
+            jingliu,
+            enemy,
+            skill);
 
         Console.WriteLine("=== AVAILABLE CHARACTERS ===");
         Console.WriteLine();
@@ -174,6 +192,7 @@ internal class Program
                 $"{position++,2}. " +
                 $"{entry.Unit.Name,-20} " +
                 $"SPD: {entry.Unit.Speed,5:F0} " +
+                $"Energy:{entry.Unit.CurrentEnergy,6:F0}/{entry.Unit.MaxEnergy,3:F0} " +
                 $"CurrentAV: {entry.CurrentAV,8:F2} " +
                 $"BaseAV: {baseAV,8:F2}");
         }

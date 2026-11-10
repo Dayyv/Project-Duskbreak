@@ -13,7 +13,11 @@ public class BattleLog
         _entries.Add(
             new BattleLogEntry(message));
     }
-
+    public static void Write(
+        string message)
+    {
+        Console.WriteLine(message);
+    }
     public void Clear()
     {
         _entries.Clear();
